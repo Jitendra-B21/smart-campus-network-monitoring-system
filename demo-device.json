@@ -1,0 +1,11 @@
+{
+  "id": 3,
+  "name": "Demo-Router",
+  "host": "172.21.175.109",
+  "vendor": "Cisco",
+  "model": "Catalyst 8000V",
+  "deviceType": "ROUTER",
+  "managementProtocols": [
+    "SNMP"
+  ]
+}

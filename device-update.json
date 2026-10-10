@@ -1,0 +1,14 @@
+{
+  "id": 2,
+  "deviceType": "ROUTER",
+  "host": "172.21.175.109",
+  "managementProtocols": [
+    "SNMP",
+    "NETCONF",
+    "RESTCONF"
+  ],
+  "model": "Catalyst 8000V",
+  "name": "Campus-Router-01",
+  "status": "UP",
+  "vendor": "Cisco"
+}
